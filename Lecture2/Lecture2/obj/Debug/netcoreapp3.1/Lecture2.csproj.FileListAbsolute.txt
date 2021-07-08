@@ -1,0 +1,13 @@
+E:\Business_Programming\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.exe
+E:\Business_Programming\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.deps.json
+E:\Business_Programming\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.runtimeconfig.json
+E:\Business_Programming\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.runtimeconfig.dev.json
+E:\Business_Programming\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.dll
+E:\Business_Programming\Lecture2\Lecture2\bin\Debug\netcoreapp3.1\Lecture2.pdb
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.csproj.AssemblyReference.cache
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.AssemblyInfoInputs.cache
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.AssemblyInfo.cs
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.csproj.CoreCompileInputs.cache
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.dll
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.pdb
+E:\Business_Programming\Lecture2\Lecture2\obj\Debug\netcoreapp3.1\Lecture2.genruntimeconfig.cache
