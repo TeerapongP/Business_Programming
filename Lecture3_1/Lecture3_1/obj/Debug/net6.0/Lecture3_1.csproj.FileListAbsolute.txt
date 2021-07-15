@@ -1,0 +1,15 @@
+E:\Business_Programming\Lecture3_1\Lecture3_1\bin\Debug\net6.0\Lecture3_1.exe
+E:\Business_Programming\Lecture3_1\Lecture3_1\bin\Debug\net6.0\Lecture3_1.deps.json
+E:\Business_Programming\Lecture3_1\Lecture3_1\bin\Debug\net6.0\Lecture3_1.runtimeconfig.json
+E:\Business_Programming\Lecture3_1\Lecture3_1\bin\Debug\net6.0\Lecture3_1.dll
+E:\Business_Programming\Lecture3_1\Lecture3_1\bin\Debug\net6.0\ref\Lecture3_1.dll
+E:\Business_Programming\Lecture3_1\Lecture3_1\bin\Debug\net6.0\Lecture3_1.pdb
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.csproj.AssemblyReference.cache
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.AssemblyInfoInputs.cache
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.AssemblyInfo.cs
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.csproj.CoreCompileInputs.cache
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.dll
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\ref\Lecture3_1.dll
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.pdb
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.genruntimeconfig.cache
