@@ -13,3 +13,4 @@ E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.dll
 E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\ref\Lecture3_1.dll
 E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.pdb
 E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.genruntimeconfig.cache
+E:\Business_Programming\Lecture3_1\Lecture3_1\obj\Debug\net6.0\Lecture3_1.ImplicitNamespaceImports.cs

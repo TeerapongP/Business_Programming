@@ -1,0 +1,10 @@
+E:\Business_Programming\GUI2\GUI2\bin\Debug\GUI2.exe.config
+E:\Business_Programming\GUI2\GUI2\bin\Debug\GUI2.exe
+E:\Business_Programming\GUI2\GUI2\bin\Debug\GUI2.pdb
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.csproj.AssemblyReference.cache
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.Form1.resources
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.Properties.Resources.resources
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.csproj.GenerateResource.cache
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.csproj.CoreCompileInputs.cache
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.exe
+E:\Business_Programming\GUI2\GUI2\obj\Debug\GUI2.pdb
